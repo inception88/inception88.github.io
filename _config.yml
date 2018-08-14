@@ -1,15 +1,14 @@
 # Site settings
-title: 
+author: Ben Jones
+title: Ben Jones Blog
 header-img: img/home-bg.png
-email: bljones36@gmail.com
-copyright_name: inception88
+email: bljones36+1@gmail.com
+copyright_name: Ben Jones
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Ben Jones Codes
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  inception88
-learn_profile: inception88
-email_username: bljones36@gmail.com
 
 # Build settings
 markdown: kramdown
